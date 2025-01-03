@@ -7,7 +7,7 @@ on:
       - main
   push:
     branches:
-      - main
+      - linux-fixes-test
 
 jobs:
   build:
